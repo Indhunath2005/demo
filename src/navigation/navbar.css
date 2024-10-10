@@ -1,0 +1,18 @@
+nav{
+    background-color: aqua;
+    color: #774f4f;
+}
+
+li{
+    list-style: none;
+}
+.navbar{
+    position: fixed;
+    width:100%;
+    top: 0;
+}
+ui{
+    display: flex;
+    gap:30px;
+    justify-content: right;
+}
